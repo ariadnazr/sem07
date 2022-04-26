@@ -11969,4 +11969,9 @@ fieldset:disabled .btn {
       -ms-flex-pack: center;
           justify-content: center;
 }
+
+footer {
+  background-color: #aeabed;
+  margin-top: 5%;
+}
 /*# sourceMappingURL=principal.css.map */
