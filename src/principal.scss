@@ -1,0 +1,14 @@
+//variables
+@import "shared/variables";
+
+
+//personalizar variables bootstrap
+@import "shared/myBootstraps";
+
+//otros
+
+#lasTarjetas{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
